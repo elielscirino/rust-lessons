@@ -4,3 +4,6 @@
 [submodule "variables"]
 	path = variables
 	url = git@github.com:elielscirino/rust-variables-lesson.git
+[submodule "rust-variables-lesson"]
+	path = rust-variables-lesson
+	url = git@github.com:elielscirino/rust-variables-lesson.git
