@@ -1,9 +1,6 @@
 [submodule "guess-the-number"]
 	path = guess-the-number
 	url = git@github.com:elielscirino/guess-the-number.git
-[submodule "variables"]
-	path = variables
-	url = git@github.com:elielscirino/rust-variables-lesson.git
 [submodule "rust-variables-lesson"]
 	path = rust-variables-lesson
 	url = git@github.com:elielscirino/rust-variables-lesson.git
